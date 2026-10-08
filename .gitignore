@@ -1,4 +1,4 @@
 .venv/
 __pycache__/
-.DB_Store/
+.DS_Store
 .pytest_cache/
